@@ -7,6 +7,7 @@ An evolving Python calculator project built as part of my Python learning journe
 - User-friendly interface
 - Input validation
 - Error handling for invalid input
+- Printed division by zero
 - More features added with each new version
 
 ## Technologies Used
@@ -14,10 +15,12 @@ An evolving Python calculator project built as part of my Python learning journe
 
 ## Future Plans
 - Calculation history
-- Scientific calculator mode
-- Themes
-- Improved user interface
+- Better input validation
 - More advanced mathematical functions
+- Networking and IP calculation tools
+- Encoding and hashtag utilities
+- More cybersecurity-related utilities
+- Additional security-focused features
 
 ## Learning Goals
 This project serves as a record of my progress in Python. Rather than creating separate calculator projects, I continuously improve this one by applying new concepts and techniques as I learn.
